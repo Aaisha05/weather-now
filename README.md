@@ -2,5 +2,5 @@
 
 Project made using react and api from open weather api
 
-
+ 
 
